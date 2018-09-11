@@ -1,0 +1,14 @@
+otomobil1,5,5,5,123,5,5,5,55
+gemi1,5,4,8000,7,,7,4,1
+gemi2,9,8,78,4,1,7,2,3
+ucangemi1,4,5,1,2,4,7,mor,3
+otomobil2,asda,asdas,55,4,4,2755,1995,gre
+otomobil3,asdad,assds,4657,5,4,4555,1998,green
+otomobil4,asda,ddss,155,12,4,55555,1956,tr
+otomobil5,ter,ddfgd,0,5,4,4588,1523,gfg
+ucak2,adas,asdada,32,25,4,44,165,tyt
+ucangemi3,ergo,bor,60,4,3,50000,2018,siyah
+bisiklet1,bmx,,100,2,2,1500,1995,siyah
+ucak4,katar,bor,100,50,3,250000,2005,pembe
+ucak4,mx,bor,0,4,2,153000,1995,siyah
+ucangemi2,asdad,dsdsd,55,222,124,155552,1989,tyt
